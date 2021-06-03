@@ -1,6 +1,6 @@
 # Customer-Churn-Analysis-SQL
 
-The database has 19 features (excluding ID) that describe the target variable, Churn. Factor analysis conducted using Chi-square test. Naive Bayes model used to determine probability of customer churn based on significant variables. The following questions were answered :
+The database has 19 features (excluding ID) that describe the target variable, Churn. Factor analysis conducted using Chi-square test. Naive Bayes model used to determine the conditional probability of customer churn based on significant variables. The following questions were answered :
 
 Question 1 - Does customer churn depend on the method of payment?
 
