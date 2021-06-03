@@ -9,5 +9,3 @@ Question 2 - Does customer churn depend upon the gender of the client?
 Question 3 - Is there a relationship between customer churn and type of contract?
 
 Question 4 - What is the probability of customer churn given a particular contract type and payment method? 
-
-The SQL code is written at a fundamental level to display deep understanding of statistics used for the project.
